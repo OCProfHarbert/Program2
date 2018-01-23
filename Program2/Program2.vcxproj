@@ -145,6 +145,9 @@
   <ItemGroup>
     <ClCompile Include="DrinkMachine.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="MachineInventory.csv" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
